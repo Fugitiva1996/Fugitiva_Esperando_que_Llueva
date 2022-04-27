@@ -1,0 +1,84 @@
+body {
+
+        background-image: url("/images/a66.png");
+      
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 25px;
+    border: 10px  solid rgb(27, 230, 34);
+border-radius: 99px;
+
+    
+  
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 15px;
+    color: rgb(100, 39, 103);
+    margin: 10px;
+    animation: alternate;
+    background-color: #e2ece1bc;
+
+    
+  }
+
+  h2 {
+    font-family: verdana;
+    font-size: 10px;
+    color: rgb(221, 98, 237);
+    background-color: #f2e9f7;
+font-size: 36px;
+text-align:  center;
+
+  }
+
+ .item{
+    color: rgb(243, 106, 225);
+    text-align: center;
+    margin: 25px 50px;
+   
+  
+  }
+
+  table, th, td {
+      margin: 10;
+    border: 5px solid rgb(164, 230, 169);
+    border-radius: 99px;
+    background-color: rgb(233, 241, 243);
+
+
+  }
+  th, td {
+    font-family: verdana;
+    margin: 25px 25px;
+
+   
+  }
+
+
+  h3 {
+    margin: 10;
+    margin: 15px 25px;
+    border-radius: 99px;
+    background-color: #f8f9ae;
+    padding: 15px;
+    width: 66px; ;
+    height: 55px;
+    text-align:  center;
+
+
+
+   
+}
+
+h4 {
+  text-align:  center;
+
+  font-family: verdana;
+  font-size: 15px;
+
+}
+
