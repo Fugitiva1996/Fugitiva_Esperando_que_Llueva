@@ -92,7 +92,24 @@ h4 {
 
 }
 
+.galeria {
+  height: calc( 300px + 3em);
+  width: 260px;
+  position: absolute;
+  top: 40px;
+
+
+  padding: 80px;
+  margin: 25px;
+}
+
 .galeria img {
+  height: calc( 300px + 3em);
+  width: 260px;
+  position: absolute;
+  top: 40px;
+
+
   position: absolute;
   top: 0;
   left: 0;
@@ -121,4 +138,3 @@ h4 {
 .galeria input[type=radio]:nth-of-type(4):checked ~ img:nth-of-type(4) {
   opacity: 1;
 }
-
