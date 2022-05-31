@@ -85,14 +85,11 @@ h4 {
 .galeria {
   height: calc( 300px + 3em);
   width: 260px;
-  position: absolute;
+  position: center;
   top: 50px;
-
-  background-color: lightgrey;
   width: 250px;
   border: 10px solid blue;
-  padding: 80px;
-  margin: 25px;
+
 }
 
 .galeria img {
